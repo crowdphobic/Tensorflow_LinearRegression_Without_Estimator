@@ -3,7 +3,7 @@ This is a simple implementation of Linear Regression in Tensorflow without estim
 
 How to run:-
  1. Intall Jupyter Notebook.
- 2. Tensorflow.
+ 2. Tensorflow 1.3
  1. Run each cell of jupyter notebook.
  
 Environmet:-
